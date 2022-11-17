@@ -1,1 +1,5 @@
-# School_District_Analysis
+# School District Analysis
+
+During this analysis, we discovered that the average budgets for the Charter schools are less than the average budgets for the Public schools. While the average reading scores were similar between the two school types, the average math scores were lower at the Public schools. Another interesting point, however, is that the Charter school math scores are the highest in the 9th grade and drop almost a full 10 points by the 12th grade. There is far less fluctuation in the Public school math scores over time. At the Public schools, the average scores are similar for 9th, 10th, and 12th grades, yet drop slightly in the 11th grade. 
+
+Some additional analysis that could help is to figure out if there is a correlation between enrollment and average scores, with an added layer to see by school type and grade. This might explain the drop in scores at the Charter schools for math scores. Additionally, school budgets and average scores would be worthwhile to look into. We have done a high level of this by school type, yet it might provide more insights when we look deeper into each school and their average scores. Also, this same data could help us to see if the schools have similar average reading and math scores or if some schools are much better in one area than the other. 
